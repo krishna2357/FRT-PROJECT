@@ -10,13 +10,15 @@ My project is about Developing a fashion Category Website 💭
 
 It is useful for people with fashion products with reasonable price and good quality.
 I hope every person wants to buy fashionable goods at a reasonable price , Providing that needs is my projects goal.
+In Addition to this my website contains a health bot , it can be used to give precautions for your body symptoms to control the decease or any disabilities.
 
 
 I Created My Project Using 2 Azure technologies, They Are 
 
 1️⃣ Static Web Apps
 
-2️⃣ Visual Studio Code 
+2️⃣ Health Bot  
+
 
 📌 By Using Visual Studio Code I developed a webpage Using HTML as shown.
 
